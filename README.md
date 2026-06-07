@@ -53,7 +53,3 @@ Documentación Javadoc completa del proyecto con `@author`, `@version`, `@param`
 - EclEmma
 - SonarLint
 - Javadoc
-
-## Autor
-
-ftor22 — curso 2024/2025
